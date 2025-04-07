@@ -1,7 +1,7 @@
 <!DOCTYPE html>
      <html>
      <head>
-         <title>Pratyush</title>
+         <title>PRATYUSH</title>
          <style>
              body { font-family: Arial; text-align: center; margin-top: 50px; }
              h1 { color: #2e86de; }
